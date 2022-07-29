@@ -4,3 +4,20 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.cabecalho {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    padding-top: 50px;
+}
+
+.cabecalho .titulo {
+    color: #f1ecff;
+}
+
+.cabecalho .pokebola {
+    width: 25px;
+    height: 25px;
+}
