@@ -73,3 +73,15 @@ body {
     opacity: 1;
     z-index: 1;
 }
+
+.fundo1 {
+    background: url(../imagens/fundo-card-1.jpg) no-repeat;
+}
+
+.fundo2 {
+    background: url(../imagens/fundo-card-2.jpg) no-repeat;
+}
+
+.fundo3 {
+    background: url(../imagens/fundo-card-3.jpg) no-repeat;
+}
